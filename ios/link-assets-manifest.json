@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/fonts/LobsterTwo-Bold.ttf",
+      "sha1": "22d16751379386a58202275f3cfcf9e51bc32a80"
+    },
+    {
+      "path": "src/Assets/fonts/LobsterTwo-BoldItalic.ttf",
+      "sha1": "7191e615e73f4780d951913f1a90fd0ea5a0deac"
+    },
+    {
+      "path": "src/Assets/fonts/LobsterTwo-Italic.ttf",
+      "sha1": "ec156cb8233328a591257a69bfa6ba99b2a0cd5f"
+    },
+    {
+      "path": "src/Assets/fonts/LobsterTwo-Regular.ttf",
+      "sha1": "1f9ffb9981ee8cc365b1ab1f1370421d62a36301"
+    }
+  ]
+}
