@@ -39,8 +39,8 @@ const styles = StyleSheet.create({
   parent_view: {
     flex: 1,
     backgroundColor: '#eee',
+    marginBottom: 15,
   },
-
   country: {
     backgroundColor: '#fff',
     height: 50,
@@ -61,9 +61,9 @@ const styles = StyleSheet.create({
     elevation: 6,
   },
   cities: {
-    textAlign: 'center',
     color: 'coral',
     fontSize: 18,
     fontWeight: 'bold',
+    alignSelf: 'center',
   },
 });
