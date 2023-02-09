@@ -181,7 +181,6 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
   },
   btn: {
-    backgroundColor: 'green',
     width: '100%',
     alignItems: 'center',
     justifyContent: 'center',

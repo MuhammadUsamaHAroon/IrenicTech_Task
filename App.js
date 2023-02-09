@@ -27,11 +27,15 @@ import {
 // import Login from '../src/Views/Authentication/Login';
 import {NavigationContainer} from '@react-navigation/native';
 import StackNavigator from './config/navigation/stackNavigator';
+import {Store} from './src/store/store';
+import {Provider} from 'react-redux';
 export default function App() {
   return (
-    <NavigationContainer>
-      <StackNavigator />
-    </NavigationContainer>
+    <Provider store={Store}>
+      <NavigationContainer>
+        <StackNavigator />
+      </NavigationContainer>
+    </Provider>
   );
 }
 
